@@ -1,0 +1,35 @@
+In the original score, accidentals apply to repetitions of a note even across barlines. I add accidentals across a barline.]
+Beaming regularized
+
+I
+----------------------
+I-12: Second half note missing stem in part
+VI-18: Too many beams on 32nd notes
+VII-35: Dot and beam seem to be crossed out to match II.
+VIII-18: Has quarter instead of eighth note.
+
+II
+----------------------
+I-5: To match other parts, should have breath mark.
+IV-13: Should probably have breath mark.
+23: ~~Should probably have breath mark.~~
+31: ~~Should probably have breath mark.~~
+VI-2: Maybe should have breath mark? Consistently doesn't have breath mark at 18 and 26.
+18: Should probably have breath mark. TODO put in brackets
+VIII-2: Triplets have one too many beams.
+VIII-18: Has quarter instead of eighth note.
+
+Bowed bass
+---------------------
+IV-31: Très lentement, other parts just have lentement
+VI-3: There is a straight line between the G and F#. It is difficult to tell what this is. Slur or error? Figured bass has what looks like a hold line in the same place.
+VIII-7: 32nd notes have one too many beams.
+13: ~~Should probably have breath mark.~~
+
+Figured bass
+----------------------
+IV-8: Should probably have breath mark.
+V-25-: Should maybe have figures from beginning.
+29: Maybe should be 64, not 65 to match dessus parts.
+VI-1: This is the only part that says "fort".
+VIII-15: Need to remove 5 in post. (12 glyph replaced with empty, 14 replaced with 7)
