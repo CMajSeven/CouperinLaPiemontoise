@@ -1,5 +1,4 @@
-In the original score, accidentals apply to repetitions of a note even across barlines. I add accidentals across a barline.]
-Beaming regularized
+In the original score, accidentals apply to repetitions of a note even across barlines. I add accidentals across a barline.
 
 I
 ----------------------
@@ -10,6 +9,7 @@ VIII-18: Has quarter instead of eighth note.
 
 II
 ----------------------
+I: This is the only part that has "et rondemont"
 I-5: To match other parts, should have breath mark.
 IV-13: Should probably have breath mark.
 23: ~~Should probably have breath mark.~~
