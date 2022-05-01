@@ -28,6 +28,7 @@ VIII-7: 32nd notes have one too many beams.
 
 Figured bass
 ----------------------
+I-8: Has dotted whole instead of whole + half rest
 IV-8: Should probably have breath mark.
 V-25-: Should maybe have figures from beginning.
 29: Maybe should be 64, not 65 to match dessus parts.
