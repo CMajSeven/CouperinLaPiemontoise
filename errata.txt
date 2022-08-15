@@ -1,0 +1,11 @@
+Fixed in Version | Error 
+------------------------------------------------------------
+1.1              | Gravement, et rondemont-7: Excess tremblement
+                 | ​Gravement, et rondemont-43: Basse chifrée, added missing b3 figure in part on beat 4
+				 | Allemande-2 Second Dessus: Excess tremblement on G beat 2
+                 | Allemande-9 Second Dessus: Missing tremblement on A
+                 | Courante-5 Premier Dessus: Missing tremblement on D
+                 | Seconde Courante-8 Second Dessus: Missing tremblement on C#
+                 | Rondeau-1 Premier Dessus: B should be D
+                 | Rondeau-26 Second Dessus: G should be F#
+				 | Gigue-12 Second Dessus: Excess tremblement

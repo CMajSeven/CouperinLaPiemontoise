@@ -1,36 +1,67 @@
-In the original score, accidentals apply to repetitions of a note even across barlines. I add accidentals across a barline.
+Changelog
+–––––––––
+Version 1.1
+Added editorial notes, and changelog to score.
+Air–21: Added editorial figured bass sim. 29
+Vivement, et marqué–25: Premier Dessus remove superfluous accidental
+Second Air–5,6: Second Dessus, removing editorial breath marks, and adding note.
+Second Air–26: Premier Dessus, removing breath mark not originally in score.
+Allemande–2,7; Sarabande–3: Added additional beams to triplets (originally in score)
+Allemande–5: Added additional beam to triplet (for consistency, not originally in score)
+Allemande–9: Corrected erratum, Second Dessus missing tremblement on A
+Allemande–13: Basse d'archet, added breath mark.
+Courante–5: Corrected erratum, Premier Dessus missing tremblement on D
+Rondeau–1: Corrected erratum, Premier Dessus B should be D
+Rondeau–26: Corrected erratum, Second Dessus G should be F#
+Gigue–12: Corrected erratum, Second Dessus has excess tremblement
+Gigue–34,35,38,39: "Uncorrecting" figured bass continuation line back into slur as originally in score.
+Adjusted paging in the parts such that the 2 airs are on the same page.
+Spacing and positioning adjustments
 
-I
-----------------------
-I-12: Second half note missing stem in part
-VI-18: Too many beams on 32nd notes
-VII-35: Dot and beam seem to be crossed out to match II.
-VIII-18: Has quarter instead of eighth note.
+Notes on 1726 edition
+–––––––––––––––––––––
+This is intended to be a faithful reproduction of the 1726 Boivin edition. Editorial additions are marked using square brackets and dashed slurs. While I have generally inserted breath marks where deemed appropriate based on inconsistencies in parts, the inconsistencies within the two airs are too numerous. As such, I have not inserted editorial breath marks in these movements.
+The notation has generally been modernized:
+  – The original score uses an accidental system in which accidentals apply only to repetitions of the same note, extending across barlines.  Accidentals have been added across the barline, as well as courtesy accidentals. These are not marked separately for brevity.
+  – Only treble G and bass F clefs are used.
+  – Modern repeat symbols are used. However, the repeat structure of the Rondeau is represented much more succinctly than modern repeat notation allows. In this edition, a compromise notation is used. While the repeats may generally be read in modern fashion, with "couplets" corresponding to modern over–lined endings, entering the "3e Couplet" of the Rondeau, one must jump to the "Fin" at measure 40 rather than play the "Fin" at measure 12. Other modern editions have fully written out the repeats of the Rondeau.
+  – White notehead notation has been maintained. In this system, used in the French baroque in 3/2, notes with white heads have double the duration of their corresponding black–head form.
+  - Bracket-like and straight-line slurs are both rendered as modern slurs
+The movements preceding the Allemande are from an (unpublished) sonata written ca. 1690 entitled "L'astrée". The Boivin editions makes no mention of this title and no distinction is made between this leading sonata and the following movements.
+The following glyphs are employed to represent...
 
-II
-----------------------
-I: This is the only part that has "et rondemont"
-I-5: To match other parts, should have breath mark.
-IV-13: Should probably have breath mark.
-23: ~~Should probably have breath mark.~~
-31: ~~Should probably have breath mark.~~
-VI-2: Maybe should have breath mark? Consistently doesn't have breath mark at 18 and 26.
-18: Should probably have breath mark. TODO put in brackets
-VIII-2: Triplets have one too many beams.
-VIII-18: Has quarter instead of eighth note.
+Premier Dessus
+––––––––––––––––––––––
+Gravement, et rondemont–12,13: Second half note missing stem
+Gravement–16: Missing key signature change
+Gravement–19,20,21: Tie between 20 and 21 instead of 19 and 20.
+Second Air–18: Too many beams on 32nd notes
+Gravement, et marqué–35: Dot and beam seem to be crossed out to match Second Dessus, preserving original.
+Allemande–18: Has quarter instead of eighth note.
 
-Bowed bass
----------------------
-IV-31: Très lentement, other parts just have lentement
-VI-3: There is a straight line between the G and F#. It is difficult to tell what this is. Slur or error? Figured bass has what looks like a hold line in the same place.
-VIII-7: 32nd notes have one too many beams.
-13: ~~Should probably have breath mark.~~
+Second Dessus
+––––––––––––––––––––––
+Gravement, et rondemont: This is the only part that has "et rondemont"
+Gravement, et rondemont–5: To match other parts, should have breath mark.
+Vivement, et marqué–13: Added breath mark.
+Vivement, et marqué–23: Added breath mark.
+Vivement, et marqué–31: Added breath mark.
+Allemande–18: Has quarter instead of eighth note.
+Sarabade–23: Extra eighth note rest after dotted D.
 
-Figured bass
-----------------------
-I-8: Has dotted whole instead of whole + half rest
-IV-8: Should probably have breath mark.
-V-25-: Should maybe have figures from beginning.
-29: Maybe should be 64, not 65 to match dessus parts.
-VI-1: This is the only part that says "fort".
-VIII-15: Need to remove 5 in post. (12 glyph replaced with empty, 14 replaced with 7)
+Basse d'archet
+–––––––––––––––––––––
+Vivement, et marqué–31: Très lentement, other parts just have lentement
+Gravement, et marqué–23: Missing flag on D eighth note
+Allemande–7: 32nd notes have one too many beams.
+Allemande–13: Added breath mark.
+Courante–18: Has half note instead of whole note
+
+Basse chifrée
+––––––––––––––––––––––
+Gravement, et rondemont–8: Has dotted whole instead of whole + half rest
+Vivement–13: Extra eighth note between Ds.
+Air–21,29: 64 instead of 65 would better match Dessus parts.
+Second Air–1: This is the only part that says "fort".
+Gravement, et marqué–4: Natural instead of flat on E.
+Allemande–15: Need to remove 5 in post. (12 glyph replaced with empty, 14 replaced with 7)
