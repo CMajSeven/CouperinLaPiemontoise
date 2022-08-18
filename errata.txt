@@ -9,3 +9,4 @@ Fixed in Version | Error
                  | Rondeau-1 Premier Dessus: B should be D
                  | Rondeau-26 Second Dessus: G should be F#
 				 | Gigue-12 Second Dessus: Excess tremblement
+Not yet fixed    | Allemande-7 second ending, Second Dessus: Missing tremblement
